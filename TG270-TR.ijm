@@ -72,6 +72,6 @@ for(i = 0; i < rows; i++) {
 }
 
 // set up the animation options, set to desired fps
-run("Animation Options...", "speed =" + fps + "first = 1 last =" + frames + " start");
+run("Animation Options...", "speed=" + fps + " first=1 last=" + frames + " start");
 
 //run("Image Sequence...", ); //If this command is enabled, just select the option to use the slice labels as the file names.
