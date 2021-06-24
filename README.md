@@ -1,2 +1,2 @@
-# AAPM.RPT-270
-Archive repository for ImageJ macros from AAPM Report No. 270 "Display Quality Assurance"
+# AAPM Report No. 270 Macros
+ImageJ macros in *[AAPM Report No. 270 "Display Quality Assurance"](https://www.aapm.org/pubs/reports/RPT_270.pdf)* are unsuitable to copy & paste the code. This repository is to provide the TG270 pattern generation macros as it should be with a single syntax fix on TG270-pQC that has a missing semicolon. The instruction on how to run the macros is at *Appendix B. ImageJ Macros for TG270 Test Patterns* on page 67.
